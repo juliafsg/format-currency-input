@@ -1,5 +1,5 @@
 {
-  "name": "format-currency-input",
+  "name": "@fsgtecnologia/format-currency-input",
   "version": "1.0.0",
   "description": "formats currency input",
   "main": "index.js",
