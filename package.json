@@ -1,0 +1,24 @@
+{
+  "name": "format-currency-input",
+  "version": "1.0.0",
+  "description": "formats currency input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliafsg/format-currency-input.git"
+  },
+  "keywords": [
+    "currency",
+    "input",
+    "format"
+  ],
+  "author": "Julia Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliafsg/format-currency-input/issues"
+  },
+  "homepage": "https://github.com/juliafsg/format-currency-input#readme"
+}
